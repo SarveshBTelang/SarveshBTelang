@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Sarvesh..</h1>
+<h1 align="left">Hi👋, I'm Sarvesh Telang</h1>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views"  />
