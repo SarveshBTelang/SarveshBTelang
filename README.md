@@ -21,7 +21,7 @@
 <h3 align="left">🔧 Core Competencies</h3>
 
 ###
-<p align="left"><br>Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Hugging Face<br><br>Computer Vision: OpenCV, Mediapipe<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, Ethernet, ADAS systems<br><br>Web & Dashboards: Flask, Streamlit, Power BI, Plotly, Dash<br><br>🏆 Recent Highlights<br>📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 driving systems<br><br>🚀 Developed automated quality assessment tools integrated into CI/CD pipelines<br><br>📊 Built real-time dashboard applications using Azure and SharePoint APIs<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern<br><br></p>
+<p align="left">Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Hugging Face<br><br>Computer Vision: OpenCV, Mediapipe<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, Ethernet, ADAS systems<br><br>Web & Dashboards: Flask, Streamlit, Power BI, Plotly, Dash<br><br>🏆 Recent Highlights<br>📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 driving systems<br><br>🚀 Developed automated quality assessment tools integrated into CI/CD pipelines<br><br>📊 Built real-time dashboard applications using Azure and SharePoint APIs<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern</p>
 
 ###
 
