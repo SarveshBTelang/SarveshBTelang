@@ -1,5 +1,10 @@
 <h1 align="left">Hi👋, I'm Sarvesh..</h1>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views"  />
+</div>
+
+![SarveshBTelang's Stats](https://github-readme-stats.vercel.app/api?username=SarveshBTelang&theme=default&show_icons=true&hide_border=true&count_private=true)
 ###
 
 <p align="left">🎓 M.Sc. in Commercial Vehicle Technology | 🧠 Software Developer & Data Scientist<br>📍 Kaiserslautern, Germany | 🌍 Indian | 💼 Open to opportunities in AI, ML, and Automotive Software<br><br>I’m a passionate and detail-oriented engineer with 3+ years of experience in the automotive industry, focusing on data-driven development, machine learning, and software solutions for intelligent mobility. I specialize in building scalable ML pipelines, computer vision tools, and automation frameworks that are robust, maintainable, and production-ready.</p>
@@ -83,12 +88,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views"  />
 </div>
 
 ###
