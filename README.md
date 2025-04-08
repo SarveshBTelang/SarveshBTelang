@@ -21,8 +21,8 @@
 <h3 align="left">Repositories</h3>
 
 - [DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation](https://github.com/SarveshBTelang/DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation)
-- [Vehicle_Motion_Prediction_in_Autonomous_Vehicles](https://github.com/SarveshBTelang/Vehicle_Motion_Prediction_in_Autonomous_Vehicles)
 - [AI-based-google-news-scraper-Glimpse-Through](https://github.com/SarveshBTelang/AI-based-google-news-scraper-Glimpse-Through)
+- [Vehicle_Motion_Prediction_in_Autonomous_Vehicles](https://github.com/SarveshBTelang/Vehicle_Motion_Prediction_in_Autonomous_Vehicles)
 - [ADS_Covid-19-Project_Python-3](https://github.com/SarveshBTelang/ADS_Covid-19-Project_Python-3)
 - [Data-Analysis-and-Web-Tool-Development-Projects](https://github.com/SarveshBTelang/Data-Analysis-and-Web-Tool-Development-Projects)
 - [Academic_Publications](https://github.com/SarveshBTelang/Academic_Publications_Sarvesh_Telang)
