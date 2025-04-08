@@ -1,14 +1,13 @@
-<h1 align="left">Hi👋, I'm Sarvesh Telang</h1>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views"  />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h1>Hi👋, I'm Sarvesh Telang</h1>
+    <p align="left">🎓 M.Sc. in Commercial Vehicle Technology | 💻 Software Developer & Data Scientist<br>📍 Kaiserslautern, Germany | 🌍 Indian | 💼 Open to opportunities in Software Development, AI-ML and          Model-based design<br>
+  </div>
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views" />
+    <img src="ref.gif" alt="Reference" width="250"/>
+  </div>
 </div>
-
-![Reference](ref.gif)
-
-###
-
-<p align="left">🎓 M.Sc. in Commercial Vehicle Technology | 💻 Software Developer & Data Scientist<br>📍 Kaiserslautern, Germany | 🌍 Indian | 💼 Open to opportunities in Software Development, AI-ML and Model-based design<br><br>I’m a passionate and detail-oriented engineer with 3+ years of experience in the automotive industry, focusing on data-driven development, machine learning, and software solutions for intelligent mobility. I specialize in building scalable ML pipelines, computer vision tools, and automation frameworks that are robust, maintainable, and production-ready.</p>
 
 ###
 
@@ -16,14 +15,11 @@
 
 ###
 
+<p align="left">I’m a passionate and detail-oriented engineer with 3+ years of experience in the automotive industry, focusing on data-driven development, machine learning, and software solutions for intelligent mobility. I specialize in building scalable ML pipelines, computer vision tools, and automation frameworks that are robust, maintainable, and production-ready.</p>
+
 <p align="left">My background includes extensive work with Python, C++, MATLAB/Simulink, and cloud-based solutions, with strong exposure to ADAS technologies and label quality processes for automated driving systems. I enjoy solving real-world problems by leveraging AI and data engineering — from enhancing ADAS development workflows to improving label accuracy for machine learning models.</p>
 
 ###
-
-<h3 align="left">🔧 Core Competencies</h3>
-
-###
-<p align="left">Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Hugging Face<br><br>Computer Vision: OpenCV, Mediapipe<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, Ethernet, ADAS systems<br><br>Web & Dashboards: Flask, Streamlit, Power BI, Plotly, Dash<br><br>🏆 Recent Highlights<br>📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 driving systems<br><br>🚀 Developed automated quality assessment tools integrated into CI/CD pipelines<br><br>📊 Built real-time dashboard applications using Azure and SharePoint APIs<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern</p>
 
 ###
 
@@ -45,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" alt= "scikit learn logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
@@ -80,6 +78,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
   <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" alt="seaborn logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -91,9 +91,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
 </div>
 
+<h3 align="left">🔧 Core Competencies</h3>
+
+###
+<p align="left">Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Hugging Face<br><br>Computer Vision: OpenCV, Mediapipe<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, Ethernet, ADAS systems<br><br>Web & Dashboards: Flask, Streamlit, Power BI, Plotly, Dash<br>
+  
+<h3 align="left">🏆 Recent Highlights</h3>
+
+📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 autonomous driving systems<br><br>🚀 Developed automated quality assessment tools integrated into CI/CD pipelines<br><br>📊 Built real-time dashboard applications using Azure and SharePoint APIs<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern</p>
+
 ###
 
 <h3 align="left">📫 Let’s Connect!</h3>
 
+Reach out via [LinkedIn](https://www.linkedin.com/in/sarvesh-telang-17916448/) or email me at [telang@rptu.de](mailto:telang@rptu.de)
+
+I'm always open to collaborations, innovative projects, or new opportunities in automotive software and AI!
+
 ###
-<p align="left"><br>Reach out via LinkedIn or email me at telang@rptu.de<br>I'm always open to collaborations, innovative projects, or new opportunities in automotive software and AI!<br><br>Let me know if you'd like to include a short section about personal interests or soft skills, or if you'd like this turned into a README.md file for your GitHub profile.<br></p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sarvesh-telang-17916448/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="telang@rptu.de" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+
