@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I’m a passionate and detail-oriented engineer with over 3 years of experience in the automotive industry, specializing in data-driven development, machine learning, and software solutions for intelligent mobility. I focus on building scalable ML pipelines, computer vision tools, and automation frameworks that are robust, maintainable, and production-ready.</p> <p align="left">My experience includes extensive work with Python, C++, MATLAB/Simulink, and cloud-based solutions, with a strong emphasis on ADAS technologies and label quality processes for automated driving systems. I enjoy solving real-world problems by leveraging AI, software development, and data engineering tools — from enhancing automation workflows and testing automotive systems to developing robust applications, querying Big Data, and optimizing machine learning models.</p>
+<p align="left">I’m a passionate and detail-oriented engineer with around 3 years of experience in the automotive industry, specializing in data-driven development, machine learning, and software solutions for intelligent mobility. I focus on building scalable ML pipelines, computer vision tools, and automation frameworks that are robust, maintainable, and production-ready.</p> <p align="left">My experience includes extensive work with Python, C++, MATLAB/Simulink, and cloud-based solutions, with a strong emphasis on ADAS technologies and label quality processes for automated driving systems. I enjoy solving real-world problems by leveraging AI, software development, and data engineering tools — from enhancing automation workflows and testing automotive systems to developing robust applications, querying Big Data, and optimizing machine learning models.</p>
 
 ###
 
