@@ -4,8 +4,8 @@
     <p align="left">🎓 M.Sc. in Commercial Vehicle Technology | 💻 Software Developer & Data Scientist<br>📍 Kaiserslautern, Germany | 🌍 Indian | 💼 Open to opportunities in Software Development, AI-ML and          Model-based design<br>
   </div>
   <div>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views" />
     <img src="ref.gif" alt="Reference" width="250"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views" /> 
   </div>
 </div>
 
@@ -16,6 +16,27 @@
 ###
 
 <p align="left">I’m a passionate and detail-oriented engineer with around 3 years of experience in the automotive industry, specializing in data-driven development, machine learning, and software solutions for intelligent mobility. I focus on building scalable ML pipelines, computer vision tools, and automation frameworks that are robust, maintainable, and production-ready.</p> <p align="left">My experience includes extensive work with Python, C++, MATLAB/Simulink, and cloud-based solutions, with a strong emphasis on ADAS technologies and label quality processes for automated driving systems. I enjoy solving real-world problems by leveraging AI, software development, and data engineering tools — from enhancing automation workflows and testing automotive systems to developing robust applications, querying Big Data, and optimizing machine learning models.</p>
+
+###
+<h3 align="left">Repositories</h3>
+
+- [DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation](https://github.com/SarveshBTelang/DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation)
+- [Vehicle_Motion_Prediction_in_Autonomous_Vehicles](https://github.com/SarveshBTelang/Vehicle_Motion_Prediction_in_Autonomous_Vehicles)
+- [AI-based-google-news-scraper-Glimpse-Through](https://github.com/SarveshBTelang/AI-based-google-news-scraper-Glimpse-Through)
+- [ADS_Covid-19-Project_Python-3](https://github.com/SarveshBTelang/ADS_Covid-19-Project_Python-3)
+- [Data-Analysis-and-Web-Tool-Development-Projects](https://github.com/SarveshBTelang/Data-Analysis-and-Web-Tool-Development-Projects)
+- [Academic_Publications](https://github.com/SarveshBTelang/Academic_Publications_Sarvesh_Telang)
+
+###
+
+<h3 align="left">Core Competencies</h3>
+
+###
+<p align="left">Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Hugging Face<br><br>Computer Vision: OpenCV, Mediapipe<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, Ethernet, ADAS systems<br><br>Web & Dashboards: Flask, Streamlit, Power BI, Plotly, Dash<br>
+  
+<h3 align="left">🏆 Recent Highlights</h3>
+
+📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 autonomous driving systems<br><br>🚀 Developed automated quality assessment tools integrated into CI/CD pipelines<br><br>📊 Built real-time dashboard applications using Azure and SharePoint APIs<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern</p>
 
 ###
 
@@ -86,27 +107,6 @@
   <img width="12" />
   <a href="https://pytest.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" title="Pytest" /></a>
 </div>
-
-###
-<h3 align="left">Repositories</h3>
-
-- [DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation](https://github.com/SarveshBTelang/DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation)
-- [Vehicle_Motion_Prediction_in_Autonomous_Vehicles](https://github.com/SarveshBTelang/Vehicle_Motion_Prediction_in_Autonomous_Vehicles)
-- [AI-based-google-news-scraper-Glimpse-Through](https://github.com/SarveshBTelang/AI-based-google-news-scraper-Glimpse-Through)
-- [ADS_Covid-19-Project_Python-3](https://github.com/SarveshBTelang/ADS_Covid-19-Project_Python-3)
-- [Data-Analysis-and-Web-Tool-Development-Projects](https://github.com/SarveshBTelang/Data-Analysis-and-Web-Tool-Development-Projects)
-- [Academic_Publications](https://github.com/SarveshBTelang/Academic_Publications_Sarvesh_Telang)
-
-###
-
-<h3 align="left">Core Competencies</h3>
-
-###
-<p align="left">Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Hugging Face<br><br>Computer Vision: OpenCV, Mediapipe<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, Ethernet, ADAS systems<br><br>Web & Dashboards: Flask, Streamlit, Power BI, Plotly, Dash<br>
-  
-<h3 align="left">🏆 Recent Highlights</h3>
-
-📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 autonomous driving systems<br><br>🚀 Developed automated quality assessment tools integrated into CI/CD pipelines<br><br>📊 Built real-time dashboard applications using Azure and SharePoint APIs<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern</p>
 
 ###
 
