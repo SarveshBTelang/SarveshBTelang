@@ -20,7 +20,7 @@
 ###
 <h3 align="left">Repositories</h3>
 
-- [True-Notion-AI: Agentic RAG Framework](https://github.com/SarveshBTelang/True-Notion-AI)
+- [True-Notion-AI: An Open-source Agentic RAG Framework](https://github.com/SarveshBTelang/True-Notion-AI)
 - [DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation](https://github.com/SarveshBTelang/DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation)
 - [AI-based-google-news-scraper-Glimpse-Through](https://github.com/SarveshBTelang/AI-based-google-news-scraper-Glimpse-Through)
 - [Vehicle_Motion_Prediction_in_Autonomous_Vehicles](https://github.com/SarveshBTelang/Vehicle_Motion_Prediction_in_Autonomous_Vehicles)
