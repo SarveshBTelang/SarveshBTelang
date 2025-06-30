@@ -31,6 +31,10 @@
 
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshBTelang&hide=jupyter%20notebook&layout=compact)
+
+###
+
 <h3 align="left">Core Competencies</h3>
 
 ###
