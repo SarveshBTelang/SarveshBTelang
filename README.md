@@ -20,6 +20,7 @@
 ###
 <h3 align="left">Repositories</h3>
 
+- [Real-Time-LiDAR-SLAM-Simulation-with-LIO-SAM-in-ROS-2-Humble-using-Gazebo-and-RViz2](https://github.com/SarveshBTelang/Real-Time-LiDAR-SLAM-Simulation-with-LIO-SAM-in-ROS-2-Humble-using-Gazebo-and-RViz2)
 - [True-Notion-AI: An Open-source Agentic RAG Framework](https://github.com/SarveshBTelang/True-Notion-AI)
 - [DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation](https://github.com/SarveshBTelang/DNN-based-Virtual-Trajectory-Generation-for-Autonomous-Vehicles-Local-Reference-Path-Computation)
 - [AI-based-google-news-scraper-Glimpse-Through](https://github.com/SarveshBTelang/AI-based-google-news-scraper-Glimpse-Through)
