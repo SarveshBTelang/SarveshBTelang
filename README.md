@@ -48,7 +48,7 @@
   
 <h3 align="left">🏆 Recent Highlights</h3>
 
-📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 autonomous driving systems<br><br>🚀 Developed automated quality assessment tools and integrated into CI/CD pipelines<br><br>📊 Deployed an AI-driven Knowledge Discovery Framework over Azure ML along with distributed computing<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern</p>
+📌 Label QA Lead @ Bosch | Improved ML label accuracy by 40% for Level-3 autonomous driving systems<br><br>🚀 Developed automated quality assessment tools and integrated into CI/CD pipelines<br><br>📊 Deployed an AI-driven Knowledge Discovery Framework over Azure ML compute cluster with distributed computing<br><br>🤖 Applied ML for enhancing ADAS hardware development as a Data Science Intern</p>
 
 ###
 
