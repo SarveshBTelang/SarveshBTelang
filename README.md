@@ -5,11 +5,9 @@
   </div>
   <div>
     <img src="ref.gif" alt="Reference" width="250"/>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views" /> 
+    <img src="https://vbr.nathanchung.dev/badge?page_id=SarveshBTelang.SarveshBTelang&left_text=Profile%20Views&color=FFFF00" />
   </div>
 </div>
-
-
 
 ###
 
