@@ -11,11 +11,13 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left">About</h3>
 
 ###
 
-<p align="left">I’m a passionate and detail-oriented engineer with around 3 years of experience in the automotive industry, specializing in data-driven development, machine learning, and software solutions for intelligent mobility. I focus on building scalable ML pipelines, computer vision tools, and automation frameworks that are robust, maintainable, and production-ready.</p> <p align="left">My experience includes extensive work with Python, C++, MATLAB/Simulink, and cloud-based solutions, with a strong emphasis on machine learning and sensor technologies for automated driving systems. I enjoy solving real-world problems by leveraging AI, software development, and data engineering tools — from enhancing automation workflows, testing automotive systems to developing robust applications, querying Big Data, and optimizing machine learning models.</p>
+<p align="left">Machine Learning Engineer with 3+ years of specialized experience in automotive AI and autonomous systems. Expert in architecting production-grade ML pipelines, computer vision solutions, and safety-critical software for intelligent mobility applications. Proven track record of delivering scalable, maintainable systems that meet automotive industry standards including ISO 26262 and AUTOSAR compliance.</p>
+
+<p align="left">Technical expertise spans the full ML lifecycle—from data engineering and model development to deployment and monitoring. Proficient in Python, C++, and MATLAB/Simulink for developing ADAS/AD perception systems, sensor fusion algorithms, and automated testing frameworks. Specialized in bridging the gap between research and production, with hands-on experience deploying distributed ML systems on cloud infrastructure (Azure ML) and implementing CI/CD pipelines for continuous model validation and quality assurance in automotive applications.</p>
 
 <a href="https://sarveshbtelang.github.io/developerFolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio->> View <<-blue" alt="Portfolio" />
