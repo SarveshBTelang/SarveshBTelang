@@ -133,7 +133,7 @@
 
 <h3 align="left">📫 Let’s Connect!</h3>
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/sarvesh-telang-17916448/) or email me at [telang@rptu.de](mailto:telang@rptu.de)
+Reach out via [LinkedIn](https://www.linkedin.com/in/sarvesh-telang-17916448/) or email me at [telang.sarvesh@gmail.com](mailto:telang.sarvesh@gmail.com)
 
 I'm always open to collaborations, innovative projects, or new opportunities in automotive software and AI!
 
@@ -141,7 +141,7 @@ I'm always open to collaborations, innovative projects, or new opportunities in 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sarvesh-telang-17916448/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="mailto:telang@rptu.de" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="mailto:telang.sarvesh@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://www.facebook.com/sarvesh.telang.5" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 </div>
 
