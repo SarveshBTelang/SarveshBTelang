@@ -45,7 +45,7 @@
 <h3 align="left">Core Competencies</h3>
 
 ###
-<p align="left">Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Transformers, NLP<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, ADAS systems<br><br>Web Development: Flask, Streamlit, Power BI, Plotly, Dash<br><br>Computer Vision: OpenCV
+<p align="left">Languages & Tools: Python, C++, MATLAB, SQL, Git, Docker, Kubernetes<br><br>Machine Learning: PyTorch, TensorFlow, MLflow, Scikit-learn, Transformers, NLP<br><br>Cloud & DevOps: Azure ML, CI/CD Pipelines, REST APIs<br><br>Automotive Tech: CAN, LIN, AUTOSAR, ISO26262, ADAS systems<br><br>Web Development: Flask, Streamlit, Power BI, Plotly, Dash<br><br>Computer Vision: OpenCV, Image Sequence Modeling, 3D Reconstruction
   
 <h3 align="left">🏆 Recent Highlights</h3>
 
