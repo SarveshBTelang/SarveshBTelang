@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <h1>Hi👋, I'm Sarvesh Telang</h1>
-    <p align="left">🎓 M.Sc. in Commercial Vehicle Technology | 💻 Software Developer & Data Scientist<br>📍 Kaiserslautern, Germany | 🌍 Indian | 💼 Open to opportunities in Software Development, AI-ML and          Model-based design<br>
+    <p align="left">🎓 M.Sc. in Commercial Vehicle Technology | 💻 Software Developer & Data Scientist<br>📍 Kaiserslautern, Germany | 🌍 Indian | 💼 Open to opportunities in Software Development, AI-ML and          Embedded QA<br>
   </div>
   <div>
     <img src="ref.gif" alt="Reference" width="250"/>
